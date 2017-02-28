@@ -1,0 +1,9 @@
+Ja sobie w domu obmyœla³em stronkê ogó³em która mog³aby s³u¿yæ do wymiany/sprzeda¿y. 
+Mo¿na to zastosowaæ pod wiele kategorii np. ksi¹¿ki/p³yty z muzyk¹ czy te¿ gry w pude³ku lub kody cyfrowe no ale warto 
+skupic sie na jednej.Mamy stronkê, listê gier. Mamy system rejestracji czyli mamy userów którzy mog¹ wystawiaæ na sprzeda¿ 
+lub wymiane swoj produkt i userow ktorzy moga to kupic. No i jest wyszukiwarka ktos sobie moze wyszukac dana gre i jest 
+oferta od jakiegos uzytkownika. Klika przycisk ze rezerwuje ten produkt. Ten kto wystawi³ otrzymuje wiadomosc ze dany user
+ zarezerwowal i maja okienko gdzie moga sie kontaktowac podawac dane do przelewu itp. No i jeszcze taki system weryfikacji 
+po kolei czyli kupujacy musi zaznaczyc ze przelal pieniadze, sprzedawca ze wyslal produkt a na koniec jesli wszystko jest
+ ok wystawiaja sobie ocene czyli mamy tez system reputacji.
+ to tyle
