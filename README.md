@@ -1,0 +1,2 @@
+# trademer
+praktyki
